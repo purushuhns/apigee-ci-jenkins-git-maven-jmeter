@@ -87,7 +87,7 @@
 
 	<profiles>
 		<profile>
-			<id>testmyapi-test</id>		
+			<id>test</id>		
 	          <build>
 		          <plugins>
 					<plugin>
